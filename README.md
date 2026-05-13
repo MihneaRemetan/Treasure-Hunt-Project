@@ -1,4 +1,8 @@
-## Treasure Hunt System
+<h1 align="center">Treasure Hunt System</h1>
+
+<p align="center">
+  Operating Systems Project • C • POSIX • Multi-process
+</p>
 
 This project simulates a Treasure Hunt management system, developed as part of the Operating Systems course. It is structured in three phases, gradually introducing more advanced OS concepts such as processes, signals, pipes, and inter-process communication (IPC).
 
